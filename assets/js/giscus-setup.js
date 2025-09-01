@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "Noema-Institute/website",
+    "data-repo": "Noema-Institute/noema-institute.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
